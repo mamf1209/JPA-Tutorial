@@ -39,7 +39,7 @@ Esta clase se utiliza para inicializar datos de prueba en la base de datos al in
 
 # application.properties:
 
-Este archivo contiene la configuración de la base de datos y otras propiedades de la aplicación como las credenciales (usser y password), entre otros.
+Este archivo contiene la configuración de la base de datos como las credenciales (usser y password) y otras propiedades de la aplicación.
 
 ![appproperties](https://raw.githubusercontent.com/mamf1209/JPA-Tutorial/main/images/approperties.jpg)
 
