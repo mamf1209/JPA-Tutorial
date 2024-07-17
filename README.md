@@ -3,7 +3,7 @@ Este proyecto implementa un tutorial básico de JPA utilizando Spring Boot. Incl
 
 # Clase Producto:
 
-Esta clase representa la entidad **Producto** en la base de datos. Define los atributos y métodos necesarios para manipular los datos de un producto. Los atributos incluyen id, nombre, descripcion y precio. Utiliza anotaciones de JPA (@Entity, @Id, @GeneratedValue) para mapear la clase a una tabla en la base de datos.
+Esta clase representa la entidad **Producto** en la base de datos. Define los atributos y métodos necesarios para manipular los datos de un producto. Los atributos incluyen id, nombre, descripción y precio. Utiliza anotaciones de JPA (@Entity, @Id, @GeneratedValue) para mapear la clase a una tabla en la base de datos.
 
 ![producto](https://raw.githubusercontent.com/mamf1209/JPA-Tutorial/main/images/producto.jpg)
 
