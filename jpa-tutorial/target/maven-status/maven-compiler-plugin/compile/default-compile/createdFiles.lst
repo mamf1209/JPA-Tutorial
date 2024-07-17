@@ -1,0 +1,6 @@
+com\ejemplo\jpa_tutorial\model\Producto.class
+com\ejemplo\jpa_tutorial\service\ProductoService.class
+com\ejemplo\jpa_tutorial\init\DataInitializer.class
+com\ejemplo\jpa_tutorial\JpaTutorialApplication.class
+com\ejemplo\jpa_tutorial\repository\ProductoRepository.class
+com\ejemplo\jpa_tutorial\controller\ProductoController.class
