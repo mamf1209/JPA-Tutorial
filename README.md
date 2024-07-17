@@ -46,7 +46,7 @@ Este archivo contiene la configuración de la base de datos como las credenciale
 
 # pom.xml:
 
-Se asegura que las dependencias estén correctamente configuradas, en este caso "Spring web", "Spring Data JPA" y "PostgreSQL Sriver".
+Se asegura que las dependencias estén correctamente configuradas, en este caso "Spring web", "Spring Data JPA" y "PostgreSQL Driver".
 
 ![pomxml](https://raw.githubusercontent.com/mamf1209/JPA-Tutorial/main/images/pom.jpg)
 
